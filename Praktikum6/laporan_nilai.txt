@@ -1,0 +1,10 @@
+=== LAPORAN NILAI SISWA ===
+No   Nama                 Nilai    Status
+----------------------------------------------
+1    Putri                60.00    Tidak Lulus
+2    Karina               90.50    Lulus
+----------------------------------------------
+RINGKASAN
+Rata-rata nilai kelas : 75.25
+Jumlah siswa lulus    : 1
+Jumlah tidak lulus    : 1
